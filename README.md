@@ -14,7 +14,7 @@ PK-PhoneInfoga is a powerful tool designed to provide comprehensive information 
 * internet
 * storage 22.13 MB
 
-## INSTALLATION [Termux/All Linux distro] :
+## INSTALLATION [All Linux distro] :
 
 * `git clone https://github.com/ghost-xhu/PK-PhoneInfoga.git`
 * `cd PK-PhoneInfoga`
